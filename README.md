@@ -1,4 +1,4 @@
-#  Simple Book
+#  Simple Book API Automation
 
 ##  Project Summary:
 This project has automate user API from postman using newman
@@ -11,9 +11,9 @@ This project has automate user API from postman using newman
   - NodeJS
 
 ##  How to run:
-- git clone
-- npm i
-- npm test
+- ```git clone```
+- ```npm i```
+- ```npm test```
   
 A report will be generated in your project source root
 
